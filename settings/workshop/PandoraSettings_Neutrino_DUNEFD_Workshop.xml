@@ -498,10 +498,6 @@
         </MopUpAlgorithms>
     </algorithm>
 
-    <!-- Tutorial 6: Light in Pandora -->
-
-    <!-- Tutorial 7: Light Clustering -->    
-
     <!-- Neutrino creation and hierarchy building -->
     <algorithm type = "LArNeutrinoCreation">
        <InputVertexListName>NeutrinoVertices3D</InputVertexListName>
@@ -576,6 +572,10 @@
         <PfoListName>TrackParticles3D</PfoListName>
         <VertexListName>DaughterVertices3D</VertexListName>
     </algorithm>
+
+    <!-- Tutorial 6: Light in Pandora -->
+
+    <!-- Tutorial 7: Light Clustering -->    
 
     <!-- Output list management -->
     <algorithm type = "LArPostProcessing">
