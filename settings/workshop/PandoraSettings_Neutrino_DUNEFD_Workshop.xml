@@ -45,9 +45,11 @@
 
     <!-- Tutorial 2: Cluster Creation -->
 
-    <!-- Tutorial 2: Cluster Merging -->
+    <!-- Tutorial 3: Cluster Merging -->
     
-    <!-- Tutorial 3: Cluster Splitting -->    
+    <!-- Tutorial 4: Cluster Splitting -->    
+
+    <!-- Tutorial 5: Cluster Validation -->    
 
     <!-- ThreeDTrackAlgorithms -->
     <algorithm type = "LArThreeDTransverseTracks">
@@ -495,6 +497,10 @@
             </algorithm>
         </MopUpAlgorithms>
     </algorithm>
+
+    <!-- Tutorial 6: Light in Pandora -->
+
+    <!-- Tutorial 7: Light Clustering -->    
 
     <!-- Neutrino creation and hierarchy building -->
     <algorithm type = "LArNeutrinoCreation">
